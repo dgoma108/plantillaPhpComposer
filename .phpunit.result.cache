@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"ExampleTest::testTrue":0.01,"ExampleTest::testFalse":0.001,"ExampleTest::testEquals":0.001,"ExampleTest::testSame":0.001,"ExampleTest::testArray":0.001}}

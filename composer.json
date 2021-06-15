@@ -1,0 +1,23 @@
+{
+    "name": "davidgoma/plantilla-eloquent-pdf-composer",
+    "description": "Plantilla PHP con composer que incluye ORM Eloquent, DOMPDF y PHPUnit",
+    "type": "project",
+    "require": {
+        "illuminate/database": "8.46.0",
+        "dompdf/dompdf": "dev-master",
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Gomà",
+            "email": "dgoma108@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
